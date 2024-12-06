@@ -1,0 +1,14 @@
+C:\Users\sa_allek\RiderProjects\intepretatorPattern\intepretatorPattern\bin\Debug\net8.0\intepretatorPattern.exe
+C:\Users\sa_allek\RiderProjects\intepretatorPattern\intepretatorPattern\bin\Debug\net8.0\intepretatorPattern.deps.json
+C:\Users\sa_allek\RiderProjects\intepretatorPattern\intepretatorPattern\bin\Debug\net8.0\intepretatorPattern.runtimeconfig.json
+C:\Users\sa_allek\RiderProjects\intepretatorPattern\intepretatorPattern\bin\Debug\net8.0\intepretatorPattern.dll
+C:\Users\sa_allek\RiderProjects\intepretatorPattern\intepretatorPattern\bin\Debug\net8.0\intepretatorPattern.pdb
+C:\Users\sa_allek\RiderProjects\intepretatorPattern\intepretatorPattern\obj\Debug\net8.0\intepretatorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sa_allek\RiderProjects\intepretatorPattern\intepretatorPattern\obj\Debug\net8.0\intepretatorPattern.AssemblyInfoInputs.cache
+C:\Users\sa_allek\RiderProjects\intepretatorPattern\intepretatorPattern\obj\Debug\net8.0\intepretatorPattern.AssemblyInfo.cs
+C:\Users\sa_allek\RiderProjects\intepretatorPattern\intepretatorPattern\obj\Debug\net8.0\intepretatorPattern.csproj.CoreCompileInputs.cache
+C:\Users\sa_allek\RiderProjects\intepretatorPattern\intepretatorPattern\obj\Debug\net8.0\intepretatorPattern.dll
+C:\Users\sa_allek\RiderProjects\intepretatorPattern\intepretatorPattern\obj\Debug\net8.0\refint\intepretatorPattern.dll
+C:\Users\sa_allek\RiderProjects\intepretatorPattern\intepretatorPattern\obj\Debug\net8.0\intepretatorPattern.pdb
+C:\Users\sa_allek\RiderProjects\intepretatorPattern\intepretatorPattern\obj\Debug\net8.0\intepretatorPattern.genruntimeconfig.cache
+C:\Users\sa_allek\RiderProjects\intepretatorPattern\intepretatorPattern\obj\Debug\net8.0\ref\intepretatorPattern.dll
